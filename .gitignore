@@ -1,0 +1,8 @@
+.git
+.vscode
+.idea
+
+package-lock.json
+
+.env
+node_modules
