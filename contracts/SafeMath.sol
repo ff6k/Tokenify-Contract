@@ -1,6 +1,7 @@
 pragma solidity ^0.6.12;
 
 // SPDX-License-Identifier: MIT 
+
 library SafeMath {
     /**
      * @dev Returns the addition of two unsigned integers, reverting on
